@@ -1,0 +1,70 @@
+neighbourhood_cleansed,room_type,count_type,avg_price
+Allston,Entire home/apt,98,176
+Allston,Private room,156,74
+Allston,Shared room,6,82
+Back Bay,Entire home/apt,263,255
+Back Bay,Private room,36,152
+Back Bay,Shared room,3,66
+Bay Village,Entire home/apt,20,300
+Bay Village,Private room,4,103
+Beacon Hill,Entire home/apt,155,242
+Beacon Hill,Private room,36,161
+Beacon Hill,Shared room,3,106
+Brighton,Entire home/apt,75,163
+Brighton,Private room,103,88
+Brighton,Shared room,7,91
+Charlestown,Entire home/apt,68,253
+Charlestown,Private room,42,113
+Charlestown,Shared room,1,47
+Chinatown,Entire home/apt,62,248
+Chinatown,Private room,8,125
+Chinatown,Shared room,1,100
+Dorchester,Entire home/apt,66,160
+Dorchester,Private room,195,70
+Dorchester,Shared room,8,49
+Downtown,Entire home/apt,144,245
+Downtown,Private room,24,205
+Downtown,Shared room,4,112
+East Boston,Entire home/apt,70,158
+East Boston,Private room,77,86
+East Boston,Shared room,3,55
+Fenway,Entire home/apt,208,254
+Fenway,Private room,73,135
+Fenway,Shared room,9,149
+Hyde Park,Entire home/apt,6,200
+Hyde Park,Private room,24,60
+Hyde Park,Shared room,1,31
+Jamaica Plain,Entire home/apt,157,208
+Jamaica Plain,Private room,181,80
+Jamaica Plain,Shared room,5,88
+Leather District,Entire home/apt,3,288
+Leather District,Private room,2,202
+Longwood Medical Area,Entire home/apt,4,218
+Longwood Medical Area,Private room,4,75
+Longwood Medical Area,Shared room,1,75
+Mattapan,Entire home/apt,3,97
+Mattapan,Private room,21,72
+Mission Hill,Entire home/apt,48,185
+Mission Hill,Private room,68,87
+Mission Hill,Shared room,8,41
+North End,Entire home/apt,119,212
+North End,Private room,21,126
+North End,Shared room,3,56
+Roslindale,Entire home/apt,19,154
+Roslindale,Private room,37,70
+Roxbury,Entire home/apt,58,226
+Roxbury,Private room,81,95
+Roxbury,Shared room,5,59
+South Boston,Entire home/apt,102,242
+South Boston,Private room,69,111
+South Boston,Shared room,3,108
+South Boston Waterfront,Entire home/apt,71,326
+South Boston Waterfront,Private room,12,186
+South End,Entire home/apt,250,222
+South End,Private room,69,140
+South End,Shared room,7,201
+West End,Entire home/apt,43,224
+West End,Private room,6,107
+West Roxbury,Entire home/apt,15,170
+West Roxbury,Private room,29,74
+West Roxbury,Shared room,2,106
